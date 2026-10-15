@@ -1,0 +1,7 @@
+C:\Users\jofie\OneDrive\Documentos\JofielDavidQuinteroOrtiz\FundamentosProgramacíon\CiclosRepasoWhile\CiclosRepasoWhile\bin\Debug\CiclosRepasoWhile.exe.config
+C:\Users\jofie\OneDrive\Documentos\JofielDavidQuinteroOrtiz\FundamentosProgramacíon\CiclosRepasoWhile\CiclosRepasoWhile\bin\Debug\CiclosRepasoWhile.exe
+C:\Users\jofie\OneDrive\Documentos\JofielDavidQuinteroOrtiz\FundamentosProgramacíon\CiclosRepasoWhile\CiclosRepasoWhile\bin\Debug\CiclosRepasoWhile.pdb
+C:\Users\jofie\OneDrive\Documentos\JofielDavidQuinteroOrtiz\FundamentosProgramacíon\CiclosRepasoWhile\CiclosRepasoWhile\obj\Debug\CiclosRepasoWhile.csproj.AssemblyReference.cache
+C:\Users\jofie\OneDrive\Documentos\JofielDavidQuinteroOrtiz\FundamentosProgramacíon\CiclosRepasoWhile\CiclosRepasoWhile\obj\Debug\CiclosRepasoWhile.csproj.CoreCompileInputs.cache
+C:\Users\jofie\OneDrive\Documentos\JofielDavidQuinteroOrtiz\FundamentosProgramacíon\CiclosRepasoWhile\CiclosRepasoWhile\obj\Debug\CiclosRepasoWhile.exe
+C:\Users\jofie\OneDrive\Documentos\JofielDavidQuinteroOrtiz\FundamentosProgramacíon\CiclosRepasoWhile\CiclosRepasoWhile\obj\Debug\CiclosRepasoWhile.pdb
