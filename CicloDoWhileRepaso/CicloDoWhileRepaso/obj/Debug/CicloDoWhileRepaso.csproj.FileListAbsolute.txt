@@ -1,0 +1,7 @@
+C:\Users\jofie\OneDrive\Documentos\JofielDavidQuinteroOrtiz\FundamentosProgramacíon\CicloDoWhileRepaso\CicloDoWhileRepaso\bin\Debug\CicloDoWhileRepaso.exe.config
+C:\Users\jofie\OneDrive\Documentos\JofielDavidQuinteroOrtiz\FundamentosProgramacíon\CicloDoWhileRepaso\CicloDoWhileRepaso\bin\Debug\CicloDoWhileRepaso.exe
+C:\Users\jofie\OneDrive\Documentos\JofielDavidQuinteroOrtiz\FundamentosProgramacíon\CicloDoWhileRepaso\CicloDoWhileRepaso\bin\Debug\CicloDoWhileRepaso.pdb
+C:\Users\jofie\OneDrive\Documentos\JofielDavidQuinteroOrtiz\FundamentosProgramacíon\CicloDoWhileRepaso\CicloDoWhileRepaso\obj\Debug\CicloDoWhileRepaso.csproj.AssemblyReference.cache
+C:\Users\jofie\OneDrive\Documentos\JofielDavidQuinteroOrtiz\FundamentosProgramacíon\CicloDoWhileRepaso\CicloDoWhileRepaso\obj\Debug\CicloDoWhileRepaso.csproj.CoreCompileInputs.cache
+C:\Users\jofie\OneDrive\Documentos\JofielDavidQuinteroOrtiz\FundamentosProgramacíon\CicloDoWhileRepaso\CicloDoWhileRepaso\obj\Debug\CicloDoWhileRepaso.exe
+C:\Users\jofie\OneDrive\Documentos\JofielDavidQuinteroOrtiz\FundamentosProgramacíon\CicloDoWhileRepaso\CicloDoWhileRepaso\obj\Debug\CicloDoWhileRepaso.pdb
